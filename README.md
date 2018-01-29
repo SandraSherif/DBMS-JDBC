@@ -1,0 +1,2 @@
+# DBMS-JDBC
+Part1 : Implementing the interface (Parser Class): -Setting the parameters to be sent to the DBMS class -Validating the entered SQL statements -Setting the usage of the implemented interface functions. Internal methods of the DBMS: - Create table - Create XSD file - Drop (delete table) - Validate xml schema - Insert into table - Search in selected table - Delete from Table. Part 2 concerning implementing the interfaces of the JDBC
